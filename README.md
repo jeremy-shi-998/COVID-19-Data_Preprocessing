@@ -1,3 +1,3 @@
 # COVID-19-Data_Preprocessing
 
-Exploer COVID-19-Dataset from NSW Health Website
+Explore COVID-19-Dataset from NSW Health Website
